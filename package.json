@@ -1,5 +1,5 @@
 {
-  "name": "electron-quick-start",
+  "name": "SeoulMetro",
   "version": "1.0.0",
   "description": "A offline Seoul metro map decktop application",
   "main": "main.js",
@@ -9,13 +9,10 @@
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Seoul",
+    "Metro"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Hyun Ahn",
   "devDependencies": {
     "electron": "~1.6.2"
   }
