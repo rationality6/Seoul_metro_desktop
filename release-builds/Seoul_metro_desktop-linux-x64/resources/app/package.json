@@ -1,0 +1,20 @@
+{
+  "name": "Seoul_metro_desktop",
+  "version": "1.0.0",
+  "description": "A offline Seoul metro map decktop application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/rationality6/Seoul_metro_desktop",
+  "keywords": [
+    "Electron",
+    "Seoul",
+    "Metro"
+  ],
+  "author": "Hyun Ahn",
+  "devDependencies": {
+    "electron": "^1.6.11",
+    "electron-packager": "^8.7.2"
+  }
+}
