@@ -1,5 +1,5 @@
 {
-  "name": "SeoulMetro",
+  "name": "Seoul_metro_desktop",
   "version": "1.0.0",
   "description": "A offline Seoul metro map decktop application",
   "main": "main.js",
